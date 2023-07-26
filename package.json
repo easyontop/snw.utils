@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "version": "5.0.0"
+}
